@@ -11,7 +11,7 @@ document.forms.main.onsubmit = e => {
 
 	window.lastEvent = e;
 
-	if(e.target[0].checked) points += 5;
+	if(e.target[0].checked) points += 10;
 	if(e.target[3].checked) points += 10;
 	if(e.target[5].checked) points += 15;
 	if(e.target[7].checked) points += 20;
