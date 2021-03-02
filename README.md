@@ -4,3 +4,7 @@ This is a test to see whether or not you're a SIMP. You may have been sent this 
 ### [Take The Test](https://atlsdev.github.io/simptest/)
 
 ### Current State: Works, but can still be improved.
+
+### TODO
+- [x] Complete functionality.
+- [ ] Add validation.
