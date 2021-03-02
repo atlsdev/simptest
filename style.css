@@ -2,6 +2,10 @@ html {
 	font-family: Poppins, Arial, sans-serif;
 }
 
+body {
+	display: none;
+}
+
 hr {
 	border-color: var(--nc-bg-2);
 }
